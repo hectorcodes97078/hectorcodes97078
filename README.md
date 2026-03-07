@@ -23,7 +23,8 @@ I’m an **AI & SaaS Engineer focused on building production-ready MVPs and scal
 
 # 🧰 Tech Stack
 
-<div align="center">  
+<div align="center">
+
 | Category | Technologies |
 |--------|-------------|
 | 💻 **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/> |
@@ -35,7 +36,8 @@ I’m an **AI & SaaS Engineer focused on building production-ready MVPs and scal
 | ⚡ **Messaging** | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="30"/> |
 | 🧪 **Testing** | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="30"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="30"/> |
 | 🛠 **Tools** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="30"/> |
-<div>
+
+</div>
 
 ---
 

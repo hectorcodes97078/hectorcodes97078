@@ -64,8 +64,8 @@ Technologies I frequently use:
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hectorcodes97078&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hectorcodes97078&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upstackpilot0710&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=upstackpilot0710&theme=solarized)
 
 </div>
 
@@ -75,7 +75,7 @@ Technologies I frequently use:
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hectorcodes97078)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=upstackpilot0710)
 
 </div>
 

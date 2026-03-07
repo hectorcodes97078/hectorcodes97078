@@ -23,75 +23,89 @@ I’m an **AI & SaaS Engineer focused on building production-ready MVPs and scal
 
 # 🧰 Tech Stack
 
-### 💻 Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp" />
+## 💻 Languages
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
----
-
-### 🎨 Frontend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,html,css,sass,redux" />
+## 🎨 Frontend Development
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
 </p>
 
----
-
-### ⚙️ Backend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,graphql" />
+## ⚙️ Backend Development
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
 </p>
 
----
-
-### 🤖 AI / Machine Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+## 🤖 AI / Machine Learning
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
 </p>
 
----
-
-### 🗄 Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+## 🗄 Databases
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
 </p>
 
----
-
-### ☁️ Cloud & DevOps
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,nginx,linux,jenkins" />
+## ☁️ Cloud & DevOps
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
 </p>
 
----
-
-### 📡 Messaging & Streaming
-<p align="center">
-<img src="https://skillicons.dev/icons?i=kafka" />
+## ⚡ Messaging & Streaming
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
 </p>
 
----
-
-### 🛠 Tools & Platforms
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,webpack,babel,firebase,heroku,vercel" />
-</p>
-
----
-
-### 🧪 Testing
-<p align="center">
-<img src="https://skillicons.dev/icons?i=jest" />
+## 🧪 Testing
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
+</p>
+
+## 🛠 Tools
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40"/>
 </p>
 
 ---

@@ -64,8 +64,8 @@ Technologies I frequently use:
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upstackpilot0710&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=upstackpilot0710&theme=solarized)
+![](https://images.weserv.nl/?url=github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upstackpilot0710&theme=solarized)
+![](https://images.weserv.nl/?url=github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=upstackpilot0710&theme=solarized)
 
 </div>
 

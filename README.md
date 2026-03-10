@@ -34,7 +34,7 @@ I’m an **AI & SaaS Engineer focused on building production-ready MVPs and scal
 | 🗄 **Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="30"/> |
 | ☁️ **Cloud & DevOps** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="30"/> |
 | ⚡ **Messaging** | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="30"/> |
-| 🧪 **Testing** | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="30"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="30"/> |
+| 🧪 **Testing** | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/selenium.svg" width="30"/> |
 | 🛠 **Tools** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="30"/> |
 
 </div>
@@ -64,8 +64,8 @@ Technologies I frequently use:
 
 <div align="center">
 
-![](https://images.weserv.nl/?url=github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upstackpilot0710&theme=solarized)
-![](https://images.weserv.nl/?url=github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=upstackpilot0710&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upstackpilot0710&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=upstackpilot0710&theme=solarized)
 
 </div>
 

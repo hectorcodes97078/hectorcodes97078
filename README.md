@@ -60,27 +60,6 @@ Technologies I frequently use:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=upstackpilot0710&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=upstackpilot0710&theme=solarized)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=upstackpilot0710)
-
-</div>
-
----
-
 # 🤝 Let's Connect
 
 * 💼 Building **AI SaaS platforms and MVP products**

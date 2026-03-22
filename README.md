@@ -4,7 +4,7 @@
 
 **AI & SaaS Engineer | MVP Specialist**
 
-Building scalable products with **React • Next.js • Python • FastAPI • Supabase**
+Building scalable products with **React • Next.js • Python • Supabase**
 
 </div>
 
